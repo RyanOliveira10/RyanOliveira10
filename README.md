@@ -1,22 +1,34 @@
-<h2>Olá! Eu sou o Ryan Oliveira👋</h2>
+<h1 align="left">Olá , eu sou o Ryan Oliveira🖐️!!!</h1>
 
-[![SitePessoal](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](website:http://monip.org)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-junio-lacerda-calisto-de-oliveira-a310371b5)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](/)
+###
 
-![RyanOliver10 GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanOliver10&show_icons=true&theme=tokyonight)
+<h4 align="left">Sou estudante de T.I , entusiasta por ciência e tecnologia, estou sempre busca de novos conhecimentos e aprendizados, e procuro pela primeira oportunidade de trabalho como programdor.</h4>
 
-<div class="tecnologia">
-    <h2>Tecnologias que uso no dia a dia</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="50" />
+###
+
+<p align="left">Estou morando em Ipatinga, Minas Gerais, Brazil.</p>
+
+###
+
+<p align="left">Estou cursando Gestão da Tecnologia da Informação pela UniFael.</p>
+
+###
+
+<p align="left">E também faço  o curso técnico em Desenvolvimento de Sistemas pelo Senac.</p>
+
+###
+
+<h3 align="left">Minhas redes sociais:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ryan-oliveira-717a13235" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
- 
-  ![Snake animation](https://github.com/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+###
